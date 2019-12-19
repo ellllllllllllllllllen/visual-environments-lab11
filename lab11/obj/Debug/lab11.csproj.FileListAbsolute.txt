@@ -1,0 +1,12 @@
+D:\1AAAAAAAAAAAA\делфи\11\lab11\lab11\bin\Debug\lab11.exe.config
+D:\1AAAAAAAAAAAA\делфи\11\lab11\lab11\bin\Debug\lab11.exe
+D:\1AAAAAAAAAAAA\делфи\11\lab11\lab11\bin\Debug\lab11.pdb
+D:\1AAAAAAAAAAAA\делфи\11\lab11\lab11\obj\Debug\lab11.csprojAssemblyReference.cache
+D:\1AAAAAAAAAAAA\делфи\11\lab11\lab11\obj\Debug\lab11.Form1.resources
+D:\1AAAAAAAAAAAA\делфи\11\lab11\lab11\obj\Debug\lab11.Properties.Resources.resources
+D:\1AAAAAAAAAAAA\делфи\11\lab11\lab11\obj\Debug\lab11.csproj.GenerateResource.cache
+D:\1AAAAAAAAAAAA\делфи\11\lab11\lab11\obj\Debug\lab11.csproj.CoreCompileInputs.cache
+D:\1AAAAAAAAAAAA\делфи\11\lab11\lab11\obj\Debug\lab11.exe
+D:\1AAAAAAAAAAAA\делфи\11\lab11\lab11\obj\Debug\lab11.pdb
+D:\1AAAAAAAAAAAA\делфи\11\lab11\lab11\obj\Debug\lab11.Form2.resources
+D:\1AAAAAAAAAAAA\делфи\11\lab11\lab11\obj\Debug\lab11.Form3.resources
